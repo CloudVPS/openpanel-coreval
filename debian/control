@@ -2,11 +2,11 @@ Source: openpanel-coreval
 Section: misc
 Priority: optional
 Maintainer: OpenPanel/Panel6 packager <packages@panelsix.com>
-Build-Depends: debhelper (>= 5)
+Build-Depends: debhelper (>= 5), libgrace, libgrace-devel
 Standards-Version: 3.7.2
 
 Package: openpanel-coreval
 Architecture: any
-Depends: , openpanel-core (>= 0.8.0), libgrace
+Depends: openpanel-core (>= 0.8.0), libgrace
 Description: cli
  the commandline interface
