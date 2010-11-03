@@ -8,5 +8,5 @@ Standards-Version: 3.7.2
 Package: openpanel-coreval
 Architecture: any
 Depends: openpanel-core (>= 0.8.0), libgrace
-Description: cli
- the commandline interface
+Description: OpenPanel development tool
+ A development tool for manipulating the opencore module database
