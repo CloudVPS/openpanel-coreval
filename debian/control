@@ -2,7 +2,7 @@ Source: openpanel-coreval
 Section: misc
 Priority: optional
 Maintainer: OpenPanel packager <packages@openpanel.com
-Build-Depends: debhelper (>= 5), libgrace, libgrace-dev
+Build-Depends: debhelper (>= 5), libgrace-dev
 Standards-Version: 3.7.2
 
 Package: openpanel-coreval
